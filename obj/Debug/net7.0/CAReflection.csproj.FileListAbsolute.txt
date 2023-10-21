@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\bin\Debug\net7.0\CAReflection.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\bin\Debug\net7.0\CAReflection.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\bin\Debug\net7.0\CAReflection.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\bin\Debug\net7.0\CAReflection.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\bin\Debug\net7.0\CAReflection.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\CAReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\CAReflection.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\CAReflection.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\CAReflection.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\CAReflection.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\refint\CAReflection.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\CAReflection.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\CAReflection.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflection\obj\Debug\net7.0\ref\CAReflection.dll
